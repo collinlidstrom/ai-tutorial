@@ -3,6 +3,8 @@
 
 <h5>About</h5>
 
+To create a new init
+
 <h5>Getting Started</h5>
 
 ```shell
